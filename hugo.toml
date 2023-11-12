@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://ameliakwan.netlify.app"
 languageCode = "en-us"
 title = "Amelia Kwan"
 theme = "hugo-PaperMod"
